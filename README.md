@@ -1,4 +1,4 @@
-Ultimate Magento Admin Order Grid Addition
+Ultimate Magento Admin Order Grid
 =========
 
 Adds to the Admin Order Gird the following Additional Fields:
