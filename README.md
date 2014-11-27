@@ -3,8 +3,8 @@ Ultimate Magento Admin Order Grid
 
 Adds to the Admin Order Gird the following Additional Fields:
 
-Order #
-Invoice #	
+Order #  
+Invoice #  
 Purchased From (Store)	
 Purchased On	
 Bill to Name	
@@ -16,13 +16,13 @@ Shipping Tax Amount
 Total Tax Amount	
 G.T. (Base)	
 G.T. (Purchased)	
-Discount Amount	
-Payment Method Name	
-Payment Type	
+Discount Amount  
+Payment Method Name  
+Payment Type  
 CC Last4	
-Shipping Method	
-Country	
+Shipping Method   
+Country  
 Region	
 City	
-Street
-Postcode
+Street  
+Postcode   
